@@ -1,0 +1,12 @@
+.navbar {
+    box-align: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    letter-spacing: normal;
+  }
+
+  @font-face {
+    font-family: paintingwithChocolate;
+    src: url(painting.ttf);
+  }
